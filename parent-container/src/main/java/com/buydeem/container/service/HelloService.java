@@ -23,5 +23,4 @@ public class HelloService {
     public ApplicationContext getContext(){
         return context;
     }
-
 }

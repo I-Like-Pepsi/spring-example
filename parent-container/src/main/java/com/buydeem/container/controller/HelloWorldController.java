@@ -34,5 +34,4 @@ public class HelloWorldController {
         log.info("{}",parentContext == context.getParent());
         return helloService.sayHello();
     }
-
 }
